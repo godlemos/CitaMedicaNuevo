@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CitaMedica</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="seleccionar_fecha">Seleccionar fecha</string>
+    <string name="seleccionar_hora">Seleccionar hora</string>
+    <string name="titulo_citas_paciente">Mis Citas - Paciente</string>
+    <string name="titulo_citas_recepcionista">Mis Citas - Recepcionista</string>
+    <string name="set_time">Set time</string>
+    <string name="type_in_time">Type in time</string>
+    <string name="hour_picker_description">Hour picker</string>
+    <string name="minute_picker_description">Minute picker</string>
+    <string name="select_hours">Select hours</string>
+    <string name="select_minutes">Select minutes</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="seleccionar_fecha">Seleccionar fecha</string>
+    <string name="seleccionar_hora">Seleccionar hora</string>
+    <string name="titulo_citas_paciente">Mis Citas - Paciente</string>
+    <string name="titulo_citas_recepcionista">Mis Citas - Recepcionista</string>
+    <string name="set_time">Establecer hora</string>
+    <string name="type_in_time">Escribir hora</string>
+    <string name="hour_picker_description">Selector circular de horas</string>
+    <string name="minute_picker_description">Selector circular de minutos</string>
+    <string name="select_hours">Seleccionar horas</string>
+    <string name="select_minutes">Seleccionar minutos</string>
+</resources> 
